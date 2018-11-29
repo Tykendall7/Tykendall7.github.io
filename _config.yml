@@ -1,11 +1,11 @@
 # Site settings
 author: Tymeckia Kendall
-title: 
+title: All Problems are Not Created Equal
 header-img: img/home-bg.png
 email: tykend@gmail.com
 copyright_name: Tymeckia Kendall
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Beginner's Guide to Debugging
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Tykendall7
